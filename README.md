@@ -44,7 +44,7 @@ mkswap /swapfile
 cp /etc/fstab /etc/fstab.bk
 echo '/swapfile none swap sw 0 0' | tee -a /etc/fstab
 
-# Reboot and enjoy your newly installed Arch Linux system!
+Reboot and enjoy your newly installed Arch Linux system!
 
 # Disclaimer
-# Please note that running this script will modify your system. Use it at your own risk. Ensure that you have a backup of your important data before proceeding with the installation.
+Please note that running this script will modify your system. Use it at your own risk. Ensure that you have a backup of your important data before proceeding with the installation.
